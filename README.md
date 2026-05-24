@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/through-the-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Through The Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/through-the-fire/) |
+| **Get License** | [Secure Licensing Rights for Through The Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/through-the-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you're pulling me near
+> A slow-burning flame in the atmosphere
+> Baby, your touch is the spark that I need
+> To walk through the fire and follow your lead
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
