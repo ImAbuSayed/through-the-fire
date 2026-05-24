@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/through-the-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Through The Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/through-the-fire/) |
+| **Get License** | [Music Rights & Licensing for Through The Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/through-the-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `692a8e3554c5114a8f43893cd991ee52a56d9cde12b8ab683a554856c57e0a8d` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

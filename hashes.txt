@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Through The Fire
+
+This log tracks the cryptographic history and versioning for the song **Through The Fire** (through-the-fire).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:56:36.035640 | `v1` | `692a8e3554c5114a8f43893cd991ee52a56d9cde12b8ab683a554856c57e0a8d` | `7f9295e7187cf027014531bea9c2a072e373b0ee00f68390192784dd59df3468` | `2026-05-25_through-the-fire-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
